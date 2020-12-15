@@ -1,41 +1,85 @@
 {
 "routes":[
     {
+      "id":1,
       "routeName": "Rota do Castelo",
-      "imagem": "castelo",
-      "description": [
-        "O Castelo de Beja, nomeadamente a sua Torre de Menagem, é o monumento mais conhecido e emblemático da cidade.A rota do castelo é uma visita completa ao castelo de beja"
-      ]
+      "images": ["castelo","muralha","arco-Romano"]
+      "description": "O Castelo de Beja, nomeadamente a sua Torre de Menagem, é o monumento mais conhecido e emblemático da cidade.A rota do castelo é uma visita completa ao castelo de beja"
+      
     },
     {
+      "id":2,
       "routeName": "Rota das Adegas",
-      "imagem": "adegas",
-      "description": [
-        "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
-      ]
+      "images": ["adegas","adegas2","adega3"]
+      "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      
     },
     {
+      "id":3,
       "routeName": "Rota das Igrejas",
-      "imagem": "santo",
-      "descrition": [
-        "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
-      ]
+      "images": ["santo","igreja","praça"]
+      "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      
     },
     {
+      "id":4,
       "routeName": "Rota dos Museus",
-      "imagem": "museu",
-      "descrition": [
-        "A rota dos museus oferece um desconto na entrada de todos os museus, uma vez que o objectivo é visitar é saber mais sobre a cidade de beja"
-      ]
+      "images": ["museu","interior","museu2"]
+      "description": "A rota dos museus oferece um desconto na entrada de todos os museus, uma vez que o objectivo é visitar é saber mais sobre a cidade de beja"
+      
     },
     {
+      "id":5,
       "routeName": "Rota  romana",
-      "imagem": "romana",
-      "description": [
-        "a rota romana os visitantes tem a oportunidade de visitar, as ruínas arquivologia de pisoes e ainda em Março poderão visitar a feira romana anual"
-      ]
+      "images": ["romana","ruina"]
+      "description": "a rota romana os visitantes tem a oportunidade de visitar, as ruínas arquivologia de pisoes e ainda em Março poderão visitar a feira romana anual"
+      
     }
   ], 
   
-  "points": []
+  "points": [ {
+      "id":1,
+      "id-point":1,
+      "routeName": "Rota do Castelo",
+      "pointName": "Castelo",
+      "images": ["castelo","muralha","arco-Romano"]
+      "description": "O Castelo de Beja, nomeadamente a sua Torre de Menagem, é o monumento mais conhecido e emblemático da cidade.A rota do castelo é uma visita completa ao castelo de beja"
+      
+    },
+    {
+      "id":2,
+      "id-point":2,
+      "routeName": "Rota das Adegas",
+      "pointName": "adega",
+      "images": ["adegas","adegas2","adega3"]
+      "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      
+    },
+    {
+      "id":3,
+      "id-point":3,
+      "routeName": "Rota das Igrejas",
+      "pointName": "igreja",
+      "images": ["santo","igreja","praça"]
+      "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      
+    },
+    {
+      "id":4,
+      "id-point":4,
+      "routeName": "Rota dos Museus",
+      "pointName": "museu",
+      "images": ["museu","interior","museu2"]
+      "description": "A rota dos museus oferece um desconto na entrada de todos os museus, uma vez que o objectivo é visitar é saber mais sobre a cidade de beja"
+      
+    },
+    {
+      "id":5,
+      "id-point":5,
+      "routeName": "Rota  romana",
+      "pointName": "ruina",
+      "images": ["romana","ruina"]
+      "description": "a rota romana os visitantes tem a oportunidade de visitar, as ruínas arquivologia de pisoes e ainda em Março poderão visitar a feira romana anual"
+      
+    }]
 }
