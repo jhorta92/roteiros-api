@@ -44,7 +44,7 @@
       "pointName": "Castelo",
       "images": ["castelo","muralha","arco-Romano"],
       "description": "O Castelo de Beja, nomeadamente a sua Torre de Menagem, é o monumento mais conhecido e emblemático da cidade.A rota do castelo é uma visita completa ao castelo de beja",
-      "localizacao":"https://github.com"
+      "location":"https://github.com"
     },
     {
       "id":2,
@@ -53,7 +53,7 @@
       "pointName": "adega",
       "images": ["adegas","adegas2","adega3"],
       "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades",
-      "localizacao":"https://github.com"
+      "location":"https://github.com"
     },
     {
       "id":3,
@@ -62,7 +62,7 @@
       "pointName": "igreja",
       "images": ["santo","igreja","praça"],
       "description": "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades",
-      "localizacao":"https://github.com"
+      "location":"https://github.com"
     },
     {
       "id":4,
@@ -71,7 +71,7 @@
       "pointName": "museu",
       "images": ["museu","interior","museu2"],
       "description": "A rota dos museus oferece um desconto na entrada de todos os museus, uma vez que o objectivo é visitar é saber mais sobre a cidade de beja",
-      "localizacao":"https://github.com"
+      "location":"https://github.com"
     },
     {
       "id":5,
@@ -80,7 +80,7 @@
       "pointName": "ruina",
       "images": ["romana","ruina"],
       "description": "a rota romana os visitantes tem a oportunidade de visitar, as ruínas arquivologia de pisoes e ainda em Março poderão visitar a feira romana anual",
-      "localizacao":"https://github.com"
+      "location":"https://github.com"
       
     }]
 }
