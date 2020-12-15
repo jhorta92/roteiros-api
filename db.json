@@ -1,0 +1,41 @@
+{
+"routes":[
+    {
+      "routeName": "Rota do Castelo",
+      "imagem": "castelo",
+      "description": [
+        "O Castelo de Beja, nomeadamente a sua Torre de Menagem, é o monumento mais conhecido e emblemático da cidade.A rota do castelo é uma visita completa ao castelo de beja"
+      ]
+    },
+    {
+      "routeName": "Rota das Adegas",
+      "imagem": "adegas",
+      "description": [
+        "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      ]
+    },
+    {
+      "routeName": "Rota das Igrejas",
+      "imagem": "santo",
+      "descrition": [
+        "Sugerimos uma visita às adegas do concelho, onde pode provar, ficar a saber mais sobre os modos de produção, as castas, as adegas e até participar nas actividades"
+      ]
+    },
+    {
+      "routeName": "Rota dos Museus",
+      "imagem": "museu",
+      "descrition": [
+        "A rota dos museus oferece um desconto na entrada de todos os museus, uma vez que o objectivo é visitar é saber mais sobre a cidade de beja"
+      ]
+    },
+    {
+      "routeName": "Rota  romana",
+      "imagem": "romana",
+      "description": [
+        "a rota romana os visitantes tem a oportunidade de visitar, as ruínas arquivologia de pisoes e ainda em Março poderão visitar a feira romana anual"
+      ]
+    }
+  ], 
+  
+  "points": []
+}
